@@ -1,0 +1,3 @@
+39.0	"Iris-versicolor"
+96.0	"Iris-setosa"
+54.0	"Iris-virginica"
